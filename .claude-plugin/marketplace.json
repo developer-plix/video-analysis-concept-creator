@@ -1,0 +1,19 @@
+{
+  "name": "video-insights",
+  "owner": {
+    "name": "Sagar",
+    "url": "https://github.com/developer-plix"
+  },
+  "metadata": {
+    "description": "Video content analysis and concept generation for Plix — analyses viral and Plix videos, identifies performance patterns, and generates ready-to-shoot video concepts with hooks and scripts.",
+    "version": "0.1.0",
+    "repository": "https://github.com/developer-plix/video-insights"
+  },
+  "plugins": [
+    {
+      "name": "video-insights",
+      "description": "Analyse viral and Plix videos to identify what's working, then generate ready-to-shoot video concepts with hooks, scripts, and format guidance.",
+      "source": "./"
+    }
+  ]
+}
