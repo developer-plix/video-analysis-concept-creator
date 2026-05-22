@@ -1,0 +1,10 @@
+{
+  "name": "video-insights",
+  "version": "0.1.0",
+  "description": "Video content analysis and concept generation for Plix — analyses viral and Plix videos, identifies performance patterns, and generates ready-to-shoot video concepts with hooks and scripts.",
+  "author": {
+    "name": "Sagar",
+    "url": "https://github.com/developer-plix"
+  },
+  "keywords": ["video", "reels", "instagram", "content-strategy", "hooks", "scripts", "marketing", "plix"]
+}
